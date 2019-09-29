@@ -2,7 +2,7 @@
 # Control the InternalResourceViewResolver:
 spring:
   application:
-    name: accounts-web
+    name: web-client-accounts-api-microservice
   mvc:
     view:
       prefix: /WEB-INF/views/
